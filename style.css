@@ -253,6 +253,9 @@ p{
     nav,.teams-container,.facts-card-container,.features{
         flex-direction: column;
     }
+    .banner-title{
+        font-size: 3em;
+    }
     .gp{
         margin-bottom: 50px;
     }
