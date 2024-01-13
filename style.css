@@ -285,7 +285,8 @@ p{
         align-items: center;
      }
      .features-img img{
-        width: 110%;
+        width: 90%;
+        align-items: center;
      }
      .features-card{
         margin-left: 0px;
@@ -324,9 +325,10 @@ p{
      }
      .features-img{
         align-items: center;
+        text-align: center;
      }
      .features-img img{
-        width: 100%;
+        width: 80%;
      }
      .features-card{
         margin-left: 70px;
